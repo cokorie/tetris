@@ -4,17 +4,18 @@
 Enjoy a fun game of Tetris, created using HTML, CSS & JavaScript!
 
 ### __Screenshots__
-![Tetris Rules](/images/tetris_rules.png)
+
 ##### Game Rules
+![Tetris Rules](/images/tetris_rules.png)
 
-![Tetris Starting Screen](/images/tetris_start_screen.png)
 ##### Start Screen
+![Tetris Starting Screen](/images/tetris_start_screen.png)
 
-![Tetris Play](/images/tetris_in_play.png)
 ##### Playing Tetris
+![Tetris Play](/images/tetris_in_play.png)
 
-![Tetris Game Over](/images/tetris-endgame.png)
 ##### Game Over
+![Tetris Game Over](/images/tetris_endgame.png)
 
 ### __Technologies Used__
 * HTML
@@ -22,7 +23,7 @@ Enjoy a fun game of Tetris, created using HTML, CSS & JavaScript!
 * JavaScript
 
 
-### __Getting Started
+### __Getting Started__
 Please click into the following website link to check out my Tetris game: 
 * [Chijioke's Tetris](https://cokorie.github.io/tetris/)
 
