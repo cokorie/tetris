@@ -197,6 +197,21 @@
     font-size: 1.2rem;
   }
   
+  #replay {
+    background: #4ea12e;
+    text-shadow: -1px -1px 0 #4ea12e;
+    border: 1px solid #4ea12e;
+    background-image: linear-gradient(to bottom, #51dd4c, #4fd14a);
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset,
+      0 -1px 0 rgba(255, 255, 255, 0.1) inset, 0 4px 0 #49b149,
+      0 4px 2px rgba(0, 0, 0, 0.5);
+  }
+
+  #replay:hover {
+    background: #4ea12e;
+    background-image: linear-gradient(top, #4bb44b, #6cf66c);
+  }
+
   /* Menu */
   .container {
     max-width: 600px;
