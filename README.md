@@ -21,6 +21,7 @@ Enjoy a fun game of Tetris, created using HTML, CSS & JavaScript!
 * HTML
 * CSS
 * JavaScript
+* GitHub
 
 
 ### __Getting Started__
