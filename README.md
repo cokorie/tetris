@@ -9,7 +9,7 @@ Enjoy a fun game of Tetris, created using HTML, CSS & JavaScript!
 ![Tetris Rules](/images/tetris_rules.png)
 
 ##### Start Screen
-![Tetris Starting Screen](/images/tetris_startscreen.png)
+![Tetris Starting Screen](/images/tetris_start_screen.png)
 
 ##### Playing Tetris
 ![Tetris Play](/images/tetris_in_play.png)
