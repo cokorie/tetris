@@ -1,6 +1,6 @@
 :root {
     /* Default font size in browsers (16px = 1em); to make things easier for us, make 10px our base size.
-       We have 10/16 (0.625 = 1rem) as it's set on root element, so 1rem is now 10px throughout the stylesheet. */
+       We have 10/16 (0.625 = 1rem) as it's set on root element, so 1rem is now 10px throughout stylesheet. */
     font-size: 0.625em;
   }
   
