@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
         grid.appendChild(gridElement);
       }
   
-      // setting base of grid
+      // setting grid base
       for (let i = 0; i < GRID_WIDTH; i++) {
         let gridElement = document.createElement("div");
         gridElement.setAttribute("class", "block3");
